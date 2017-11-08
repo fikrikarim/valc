@@ -1,0 +1,24 @@
+{
+  "name": "valc",
+  "version": "0.0.0",
+  "description": "Opinionated MVC Framework using React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fikrikarim/valc.git"
+  },
+  "keywords": [
+    "react",
+    "mvc",
+    "fullstack"
+  ],
+  "author": "Fikri Karim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fikrikarim/valc/issues"
+  },
+  "homepage": "https://github.com/fikrikarim/valc#readme"
+}
